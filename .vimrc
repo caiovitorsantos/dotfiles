@@ -31,6 +31,9 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'Lokaltog/powerline'
 Plugin 'mileszs/ack.vim'
 Plugin 'leafgarland/typescript-vim'
+Plugin 'elixir-editors/vim-elixir'
+Plugin 'slashmili/alchemist.vim'
+Plugin 'mattn/emmet-vim'
 call vundle#end()            " required
 
 syntax enable
