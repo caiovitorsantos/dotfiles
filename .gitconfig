@@ -1,6 +1,6 @@
 [user]
 	name = Caio Vitor Santos
-	email = caio.santos@guideinvestimentos.com.br
+	email = caiovitor.santos@gmail.com
 [alias]
   hist = log --graph --pretty=\"format:%C(yellow)%h%Cblue%d%Creset %s %C(white) %an, %ar%Creset\" --all
   st = status
